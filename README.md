@@ -2,14 +2,14 @@
 
 A sleek, powerful, all-in-one toolkit for developers and creators, contained entirely within a single, beautiful HTML file. No dependencies, no installations, no internet required. Just pure, functional utility with a stunning, dynamic UI.
 
-![DevKit OneFile Pro Demo](https://raw.githubusercontent.com/your-username/your-repo-name/main/demo.gif)
-> **Note:** Replace the link above with a GIF of the app in action!
+![DevKit OneFile Pro Demo](https://raw.githubusercontent.com/swapagrawal14/dev-kit/main/demo.gif)
+> **Pro-Tip:** Create a short screen recording (GIF) of the app and name it `demo.gif` in your repository to make this image appear!
 
 ---
 
 ## ✨ Key Features
 
-*   **Single File Power:** The entire application—structure, styling, and logic—lives in one `html` file. Incredibly portable and easy to share.
+*   **Single File Power:** The entire application—structure, styling, and logic—lives in one `index.html` file. Incredibly portable and easy to share.
 *   **Dynamic & Modern UI:** Features a beautiful glassmorphism design with a constantly shifting aurora background for a premium user experience.
 *   **Fully Responsive:** Built with a mobile-first approach, it looks and works perfectly on any device, from a large monitor to your smartphone.
 *   **Offline First:** Since it's a single self-contained file, the toolkit works completely offline. Your data never leaves your machine.
@@ -20,9 +20,7 @@ A sleek, powerful, all-in-one toolkit for developers and creators, contained ent
 
 ## 🚀 Live Demo
 
-See it in action! **[Try the Live Demo Here](https://your-username.github.io/your-repo-name/devkit-pro.html)**
-
-*(Remember to set up GitHub Pages for your repository to make this link work!)*
+See it in action! **[Try the Live Demo Here](https://swapagrawal14.github.io/dev-kit/)**
 
 ---
 
@@ -30,8 +28,8 @@ See it in action! **[Try the Live Demo Here](https://your-username.github.io/you
 
 Getting started is as simple as it gets:
 
-1.  **Download:** Clone this repository or simply download the `devkit-pro.html` file.
-2.  **Open:** Open the `devkit-pro.html` file in your favorite web browser (like Chrome, Firefox, or Safari).
+1.  **Download:** Clone this repository or simply download the `index.html` file.
+2.  **Open:** Open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Safari).
 
 That's it! You're ready to use all the tools.
 
@@ -46,7 +44,7 @@ Each tool is designed to be fast, intuitive, and immediately useful.
 *   **Conceptual Tag:** `Kotlin` (for its strong typing and structured approach to building complex UIs).
 
 ### 📄 JSON Formatter
-*   **Description:** Paste in any messy or minified JSON, and it will be instantly "prettified"—formatted with proper indentation and syntax highlighting for easy reading and debugging.
+*   **Description:** Paste in any messy or minified JSON, and it will be instantly "prettified"—formatted with proper indentation for easy reading and debugging.
 *   **Conceptual Tag:** `Go` (for its speed and efficiency in handling data structures).
 
 ### 🔒 Base64 Converter
@@ -72,8 +70,14 @@ Each tool is designed to be fast, intuitive, and immediately useful.
 This project was built as a creative challenge: to pack as much utility and aesthetic appeal as possible into a single, dependency-free file. It demonstrates the power of modern web technologies.
 
 *   **HTML5:** For the semantic structure of the application.
-*   **CSS3:** For the stunning visuals, including the aurora background, glassmorphism, and responsive layout using Flexbox and Grid.
-*   **Vanilla JavaScript (ES6+):** For all the application logic, from UI interactions to the functionality of each individual tool. No frameworks, no libraries, just pure browser power.
+*   **CSS3:** For the stunning visuals, including the aurora background, glassmorphism, and responsive layout.
+*   **Vanilla JavaScript (ES6+):** For all the application logic, from UI interactions to the functionality of each individual tool.
+
+---
+
+## 👨‍💻 Built By
+
+*   **[Swapnil Agrawal](https://github.com/swapagrawal14)**
 
 ---
 
@@ -85,4 +89,4 @@ Contributions are welcome! If you have an idea for a new tool or an improvement 
 
 ## 📄 License
 
-This project is open-source and available under the **[MIT License](LICENSE)**.
+This project is open-source and available under the **MIT License**.
